@@ -1,4 +1,4 @@
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpauldj54%2Fmslearn-migrate-sql-server-relational-data%2Fmaster%2FAddDatabaseToSqlServer.ps1)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpauldj54%2Fmslearn-migrate-sql-server-relational-data%2Fmaster%2Fazuredeploy.json)
 
 ---
 page_type: sample
